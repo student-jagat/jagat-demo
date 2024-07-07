@@ -1,4 +1,4 @@
 # jagat-demo
 This is my first Repository.
 <br>
-Author- Jagat Jyoti Sarkar
+Author- Jagat Jyoti Sarkar(student)
